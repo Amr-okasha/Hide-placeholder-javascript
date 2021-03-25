@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+}
+body div {
+  background-color: red;
+  margin: 20px 50px 0 50px;
+  color: aliceblue;
+  padding: 5px;
+}
+#myinput {
+  margin-top: 70px;
+}
